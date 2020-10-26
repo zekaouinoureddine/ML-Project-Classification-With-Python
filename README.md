@@ -70,6 +70,7 @@ You can download the dataset **Loan_train.csv** by clicking [here](https://s3-ap
 
 ---
 ## Evaluation
+The report below shows the accuracies of all built models using different evaluation metrics:
 
 <table>
   <thead>
