@@ -73,31 +73,31 @@ You can download the dataset **Loan_train.csv** by clicking [here](https://s3-ap
 
 <table>
   <thead>
-    <tr><th> Field </th><th> Description </th> <th> Test </th><th> Field </th></tr>
+    <tr><th> Algorithm </th><th> Jaccard </th> <th> F1-score </th><th> LogLoss </th></tr>
   </thead>
   <tr>
-    <td>Loan_status</td>
-    <td>Whether a loan is paid off on in collection</td>
-    <td>Effective_date</td>
-    <td>When the loan got originated and took effects</td>
+    <td>KNN</td>
+    <td>0.67</td>
+    <td>0.63</td>
+    <td>NA</td>
   </tr>
   <tr>
-    <td>Principal</td>
-    <td>Basic principal loan amount at the</td>
-    <td>Effective_date</td>
-    <td>When the loan got originated and took effects</td>
+    <td>Decision Tree</td>
+    <td>0.76</td>
+    <td>0.77</td>
+    <td>NA</td>
   </tr>
   <tr>
-    <td>Terms</td>
-    <td>Origination terms which can be weekly (7 days), biweekly, and monthly payoff schedule</td>
-    <td>Effective_date</td>
-    <td>When the loan got originated and took effects</td>
+    <td>SVM</td>
+    <td>0.80</td>
+    <td>0.76</td>
+    <td>NA</td>
   </tr>
   <tr>
-    <td>Effective_date</td>
-    <td>When the loan got originated and took effects</td>
-    <td>Effective_date</td>
-    <td>When the loan got originated and took effects</td>
+    <td>Logistic Regression</td>
+    <td>0.74</td>
+    <td>0.70</td>
+    <td>0.67</td>
   </tr>
 </table>
 
