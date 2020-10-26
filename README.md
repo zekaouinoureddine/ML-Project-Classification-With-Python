@@ -58,10 +58,11 @@ You can download the dataset **Loan_train.csv** by clicking [here](https://s3-ap
 
 ---
 ## Algorithms and Technologies
-We used :
+**We used:**
 - Python (Pandas, seaborn, matplotlib,numpy) and the amazing ML library **Scikit-learn**  
 - IBM Cloud (Waston Studio, Jupyter Notebook)
-For building our models we will be using the folowing algorithms
+
+**For building our models we will be using the folowing algorithms:**
 - K Nearest Neighbor(KNN)
 - Decision Tree
 - Support Vector Machine
@@ -72,7 +73,7 @@ For building our models we will be using the folowing algorithms
 
 <table>
   <thead>
-    <tr><<th> Field </th><th> Description </th> <th> Test </th><th> Field </th></tr>
+    <tr><th> Field </th><th> Description </th> <th> Test </th><th> Field </th></tr>
   </thead>
   <tr>
     <td>Loan_status</td>
