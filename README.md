@@ -15,6 +15,7 @@ In this Mini Project, we'll try to practice all the classification algorithms th
 ---
 ## About Dataset
 This dataset is about past loans. The Loan_train.csv data set includes details of 346 customers whose loan are already paid off or defaulted. It includes following fields:
+
 <table>
   <thead>
     <tr><th> Field </th><th> Description </th></tr>
@@ -68,6 +69,7 @@ For building our models we will be using the folowing algorithms
 
 ---
 ## Evaluation
+
 <table>
   <thead>
     <tr><<th> Field </th><th> Description </th> <th> Test </th><th> Field </th></tr>
@@ -97,6 +99,7 @@ For building our models we will be using the folowing algorithms
     <td>When the loan got originated and took effects</td>
   </tr>
 </table>
+
 ---
 ## Few Take Aways
 
