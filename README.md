@@ -110,7 +110,7 @@ The report below shows the accuracies of all built models using different evalua
 - [Machine Learning With Python](https://www.coursera.org/learn/machine-learning-with-python)
 ---
 ## Author Infos
--
--
+- LinkedIn - [Nour Eddine ZEKAOUI](https://www.linkedin.com/in/nour-eddine-zekaoui-ba43b1177/)
+- You can view my verified achievement from Coursera and IBM: [Coursera Certification](https://www.coursera.org/account/accomplishments/verify/KWS4X9SS5WEH) - [IBM Badge](https://www.youracclaim.com/earner/earned/badge/1acbd652-ea5f-42bf-ba30-7366c11e4900)
 ---
 [Back To The Top](#ml-project-classification-with-python)
