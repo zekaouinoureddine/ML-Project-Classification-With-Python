@@ -27,7 +27,7 @@ Maching Learning Project : A classification problem using K Nearest Neighbor(KNN
 ## References
 
 ---
-## Author Infoq
+## Author Infos
 -
 -
 ---
