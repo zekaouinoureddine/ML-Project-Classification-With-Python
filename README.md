@@ -12,10 +12,12 @@ Maching Learning Project : A classification problem using K Nearest Neighbor(KNN
 ## Overview
 
 ---
-## About Datset
+## About Dataset
 
 ---
-## Algorithms
+## Algorithms and Technologies
+- t1
+- t2
 
 ---
 ## Evaluation
